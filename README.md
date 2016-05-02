@@ -13,6 +13,7 @@ You need to include the CSS file in the `<head>` section of your HTML and you ne
 	</head>
 	<body>
 		...
+		<script src="/path/to/js/jquery.min.js"></script>
 		<script src="/path/to/js/cconsent.min.js"></script>
 	</body>
 </html>
