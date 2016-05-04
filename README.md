@@ -2,7 +2,7 @@
 Cookie consent law - it's easy!
 
 ## Getting Started
-You need to include the CSS file in the `<head>` section of your HTML and you need to include the js before the `</body>` tag in your HTML. Note you can optionally include a theme CSS file in the `<head>` too.
+You need to include the CSS file in the `<head>` section of your HTML and you need to include the js before the `</body>` tag in your HTML.
 
 ```html
 <html>
